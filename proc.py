@@ -50,9 +50,9 @@ for infile in glob.glob("*.jpg"):
     f = im.resize((450, 675), Image.BILINEAR)
     if file in movs:
         print(file + movs[file])
-        f.save("s"+movs[file]+".jpg", "JPEG")
+        f.save("sn"+movs[file]+".jpg", "JPEG")
         print(file+" >> "+"s"+movs[file]+".jpg")
-        t.save("sn"+movs[file]+".jpg", "JPEG")
+        t.save("s"+movs[file]+".jpg", "JPEG")
         print(file+" >> "+"sn"+movs[file]+".jpg")
     else:
         f.save(file+"-_-screen.jpg", "JPEG")
