@@ -22,4 +22,4 @@ For resizing and renaming files in bulk for upload to website.
 * You're done! Read the "Usage" section for how to use this script.
 
 # Usage
-Using this script is pretty easy. Simply download the posters for the movies in RTS, and place them in the "Images" folder, ensuring that their names match the name of the movie in RTS (including spaces, capitalization is not important), then once you have downloaded and renamed all of your images, douple click the script and let it do its work. When it is done, the sn (screen) files will be in screens, and the s (movie) files will be in movies. Now all you have to do is upload them to the site!
+Using this script is pretty easy. Simply download the posters for the movies, and place them in the "Images" folder, ensuring that their names match the name of the movie in RTS (including spaces, capitalization is not important), then once you have downloaded and renamed all of your images, douple click the script and let it do its work. When it is done, the sn (screen) files will be in screens, and the s (movie) files will be in movies. Now all you have to do is upload them to the site!
