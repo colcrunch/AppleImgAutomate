@@ -4,7 +4,7 @@ import glob, os
 import requests
 import json
 
-src = "http://10.1.10.49:2235/showtimes.json"
+src = "http://RTS_SERVER_ID:2235/showtimes.json"
 
 shows = requests.get(src)
 json = shows.json()
