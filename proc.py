@@ -15,7 +15,7 @@ tS = []
 iS = []
 
 for film in films:
-    tS.append(film['name'])
+    tS.append(film['name'].upper())
     iS.append(film['RtsCode'])
 
 movs = dict(zip(tS,iS))
