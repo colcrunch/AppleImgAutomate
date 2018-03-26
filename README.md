@@ -1,5 +1,6 @@
 # AppleImgAutomate
 [![Maintainability](https://api.codeclimate.com/v1/badges/5fcd1169197216f122c0/maintainability)](https://codeclimate.com/github/colcrunch/AppleImgAutomate/maintainability)
+
 For resizing and renaming files in bulk for upload to website.
 
 # Setup
