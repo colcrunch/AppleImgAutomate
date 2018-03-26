@@ -29,7 +29,7 @@ for infile in glob.glob("*.jpg"):
     if file in movs:
         print(file + movs[file])
         f.save("sn"+movs[file]+".jpg", "JPEG")
-        print(file+" >> "+"sS"+movs[file]+".jpg")
+        print(file+" >> "+"s"+movs[file]+".jpg")
         t.save("s"+movs[file]+".move", "JPEG")
         print(file+" >> "+"sn"+movs[file]+".jpg")
     else:
